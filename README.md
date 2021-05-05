@@ -1,7 +1,7 @@
 # Hi, my name is Ana Cecilia (pronouns she/her), but everyone calls me Anacé 👩🏻‍💻 🇲🇽
 - I am a Software Engineer 💻   with a major in Industrial Engineering and almost 20 years of experience in the manufacturing industry 🚜
 - I'm still learning and currently looking for an opportunity as a Developer. I can't wait to show you guys what I can do! 🛠
-- I enjoy working with Front-End (❤️ React!), but I also know about Back-End, Databases, APIs, etc.
+- I enjoy working with Front-End (❤️ React!), but I also know about Back-End, Databases, APIs, etc. and a little bit of Python 🐍
 
 ---
 
